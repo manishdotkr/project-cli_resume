@@ -14,4 +14,4 @@ Step:2 ->  -> run the "autorun.bat" file
 #or else(for any system)
 Step:2 -> run this command in terminal -> ```node cli.js```
 
-* *(ignore the inverted commans)
+* * (ignore the inverted commans)
