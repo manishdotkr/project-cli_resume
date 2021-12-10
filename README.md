@@ -8,10 +8,10 @@ Node.js project showing resume in command line interface
 git clone https://github.com/officialmanishkr98/project-cli_resume.git
 ```
 
-# On Windows
+# For Windows
 Step:2 ->  -> run the ```autorun.bat``` file
 
-#or else(for any system)
+# For Any System)
 Step:2 -> run this command in terminal -> ```node cli.js```
 
 
